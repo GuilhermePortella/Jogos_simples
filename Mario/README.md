@@ -1,0 +1,1 @@
+Para jogar basta abrir o arquivo index.html, lembre de fazer o clone de todas as pastas :)
