@@ -1,0 +1,15 @@
+{
+  "name": "retro-jump-game",
+  "version": "1.0.0",
+  "description": "A simple retro-style jumping game where a small object jumps to avoid obstacles.",
+  "main": "src/game.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
